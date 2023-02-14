@@ -1,0 +1,14 @@
+git init: cria um novo repositório Git vazio.
+git clone <URL>: clona um repositório Git existente para o diretório atual.
+git add <arquivo>: adiciona um arquivo específico para o staging area.
+git add .: adiciona todos os arquivos modificados ou novos para o staging area.
+git commit -m "mensagem": faz um commit dos arquivos no staging area com uma mensagem descritiva.
+git status: exibe o estado atual do repositório Git, mostrando arquivos modificados, arquivos adicionados, arquivos não rastreados, etc.
+git log: exibe o histórico de commits do repositório Git.
+git pull: atualiza o repositório local com as alterações mais recentes do repositório remoto.
+git push: envia o commit atual para o repositório remoto.
+git branch: lista todas as branches no repositório local.
+git checkout <branch>: muda para a branch especificada.
+git merge <branch>: mescla a branch especificada com a branch atual.
+git stash: guarda temporariamente alterações que ainda não foram commitadas.
+git tag: adiciona uma tag em um commit específico.
